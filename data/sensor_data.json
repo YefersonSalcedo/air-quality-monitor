@@ -1,0 +1,902 @@
+[
+  {
+    "_id": "68e55650bd38b10f50f7571d",
+    "sensorLocation": "Barranquilla",
+    "airQualityData": {
+      "PM25": 44.53,
+      "NO2": 189.51
+    },
+    "timestamp": "2025-09-01T05:47:14"
+  },
+  {
+    "_id": "68e5565072b8aabb672857d9",
+    "sensorLocation": "Popayán",
+    "airQualityData": {
+      "PM25": 467.11,
+      "NO2": 11
+    },
+    "timestamp": "2025-03-08T11:15:21"
+  },
+  {
+    "_id": "68e55650ca598e0af6fdc07d",
+    "sensorLocation": "Cúcuta",
+    "airQualityData": {
+      "PM25": 480.28,
+      "NO2": 97.17
+    },
+    "timestamp": "2025-04-12T06:34:43"
+  },
+  {
+    "_id": "68e55650cdac76be644f1d02",
+    "sensorLocation": "Cali",
+    "airQualityData": {
+      "PM25": 407.53,
+      "NO2": 161.13
+    },
+    "timestamp": "2024-12-08T02:55:49"
+  },
+  {
+    "_id": "68e556505fdfdd21ed5efc20",
+    "sensorLocation": "Bogotá",
+    "airQualityData": {
+      "PM25": 481.65,
+      "NO2": 168.95
+    },
+    "timestamp": "2025-07-25T01:29:02"
+  },
+  {
+    "_id": "68e55650ed393a1b3f294b6e",
+    "sensorLocation": "Armenia",
+    "airQualityData": {
+      "PM25": 359.93,
+      "NO2": 118.21
+    },
+    "timestamp": "2025-06-14T06:42:17"
+  },
+  {
+    "_id": "68e556508126809063dd4d7c",
+    "sensorLocation": "Popayán",
+    "airQualityData": {
+      "PM25": 184.36,
+      "NO2": 74.45
+    },
+    "timestamp": "2024-05-08T06:20:13"
+  },
+  {
+    "_id": "68e55650ebf4345b4098d5c2",
+    "sensorLocation": "Pasto",
+    "airQualityData": {
+      "PM25": 193.43,
+      "NO2": 45.55
+    },
+    "timestamp": "2024-07-21T12:30:53"
+  },
+  {
+    "_id": "68e556509bb1ebb309482f38",
+    "sensorLocation": "Pereira",
+    "airQualityData": {
+      "PM25": 195.48,
+      "NO2": 91.39
+    },
+    "timestamp": "2024-09-14T04:30:34"
+  },
+  {
+    "_id": "68e55650e9ae662a941a91e5",
+    "sensorLocation": "Neiva",
+    "airQualityData": {
+      "PM25": 367.24,
+      "NO2": 69.45
+    },
+    "timestamp": "2024-12-11T01:13:45"
+  },
+  {
+    "_id": "68e55650a5a4c515289290e5",
+    "sensorLocation": "Cartagena",
+    "airQualityData": {
+      "PM25": 478.34,
+      "NO2": 33.02
+    },
+    "timestamp": "2024-10-10T04:59:16"
+  },
+  {
+    "_id": "68e55650c856748b357946c7",
+    "sensorLocation": "Villavicencio",
+    "airQualityData": {
+      "PM25": 142.73,
+      "NO2": 172.96
+    },
+    "timestamp": "2024-10-01T05:43:48"
+  },
+  {
+    "_id": "68e55650beed482d538d349b",
+    "sensorLocation": "Medellín",
+    "airQualityData": {
+      "PM25": 407.63,
+      "NO2": 40.81
+    },
+    "timestamp": "2025-05-16T11:44:48"
+  },
+  {
+    "_id": "68e556507fbfbde0574993a8",
+    "sensorLocation": "Medellín",
+    "airQualityData": {
+      "PM25": 193.96,
+      "NO2": 185.13
+    },
+    "timestamp": "2024-04-24T12:34:33"
+  },
+  {
+    "_id": "68e5565097ec9fd9485f99a1",
+    "sensorLocation": "Pasto",
+    "airQualityData": {
+      "PM25": 328.28,
+      "NO2": 159.81
+    },
+    "timestamp": "2024-05-24T11:48:29"
+  },
+  {
+    "_id": "68e55650e4701e8563c1b510",
+    "sensorLocation": "Pereira",
+    "airQualityData": {
+      "PM25": 436.57,
+      "NO2": 32.09
+    },
+    "timestamp": "2024-03-14T10:28:41"
+  },
+  {
+    "_id": "68e55650733d41d4298dc31e",
+    "sensorLocation": "Medellín",
+    "airQualityData": {
+      "PM25": 25.26,
+      "NO2": 128.48
+    },
+    "timestamp": "2024-02-27T03:15:06"
+  },
+  {
+    "_id": "68e556501cdf4e307200be58",
+    "sensorLocation": "Cali",
+    "airQualityData": {
+      "PM25": 164.04,
+      "NO2": 152.24
+    },
+    "timestamp": "2025-02-04T01:03:36"
+  },
+  {
+    "_id": "68e55650351fd0fdd3c5fc99",
+    "sensorLocation": "Santa Marta",
+    "airQualityData": {
+      "PM25": 1.56,
+      "NO2": 169.98
+    },
+    "timestamp": "2024-07-17T11:40:24"
+  },
+  {
+    "_id": "68e5565072355aefad5bfff7",
+    "sensorLocation": "Neiva",
+    "airQualityData": {
+      "PM25": 247.2,
+      "NO2": 31.01
+    },
+    "timestamp": "2024-04-20T03:25:35"
+  },
+  {
+    "_id": "68e55650bd9c714ec1289397",
+    "sensorLocation": "Bogotá",
+    "airQualityData": {
+      "PM25": 191.03,
+      "NO2": 188.97
+    },
+    "timestamp": "2024-02-16T09:01:29"
+  },
+  {
+    "_id": "68e5565061bee7e4c07209bf",
+    "sensorLocation": "Montería",
+    "airQualityData": {
+      "PM25": 410.67,
+      "NO2": 190.14
+    },
+    "timestamp": "2025-01-11T04:56:59"
+  },
+  {
+    "_id": "68e556504a6d8566f561a48d",
+    "sensorLocation": "Cúcuta",
+    "airQualityData": {
+      "PM25": 224.88,
+      "NO2": 122.93
+    },
+    "timestamp": "2024-01-05T12:30:58"
+  },
+  {
+    "_id": "68e5565005f88d6ae263509d",
+    "sensorLocation": "Santa Marta",
+    "airQualityData": {
+      "PM25": 116.21,
+      "NO2": 197.93
+    },
+    "timestamp": "2024-08-11T07:26:52"
+  },
+  {
+    "_id": "68e55650a333741366bd4cf1",
+    "sensorLocation": "Bucaramanga",
+    "airQualityData": {
+      "PM25": 342.62,
+      "NO2": 100.56
+    },
+    "timestamp": "2024-08-19T11:44:10"
+  },
+  {
+    "_id": "68e55650c4c5cfaf4bb0e826",
+    "sensorLocation": "Pasto",
+    "airQualityData": {
+      "PM25": 456.99,
+      "NO2": 68.2
+    },
+    "timestamp": "2025-07-25T08:47:06"
+  },
+  {
+    "_id": "68e556500cc7dcfd963d081d",
+    "sensorLocation": "Cali",
+    "airQualityData": {
+      "PM25": 214.77,
+      "NO2": 173.76
+    },
+    "timestamp": "2025-07-09T02:46:05"
+  },
+  {
+    "_id": "68e55650494d786f24d31851",
+    "sensorLocation": "Pasto",
+    "airQualityData": {
+      "PM25": 383.09,
+      "NO2": 50.96
+    },
+    "timestamp": "2025-04-14T10:42:15"
+  },
+  {
+    "_id": "68e556503701db5d78f1a81f",
+    "sensorLocation": "Popayán",
+    "airQualityData": {
+      "PM25": 398.77,
+      "NO2": 18.36
+    },
+    "timestamp": "2025-03-13T07:40:11"
+  },
+  {
+    "_id": "68e556501835a4433036a8bd",
+    "sensorLocation": "Pasto",
+    "airQualityData": {
+      "PM25": 416.48,
+      "NO2": 8.42
+    },
+    "timestamp": "2024-10-23T08:29:36"
+  },
+  {
+    "_id": "68e556501f96381715539de1",
+    "sensorLocation": "Sincelejo",
+    "airQualityData": {
+      "PM25": 412.93,
+      "NO2": 133.09
+    },
+    "timestamp": "2025-06-30T10:16:24"
+  },
+  {
+    "_id": "68e55650e5206c2917884655",
+    "sensorLocation": "Montería",
+    "airQualityData": {
+      "PM25": 154.73,
+      "NO2": 154.89
+    },
+    "timestamp": "2024-08-05T12:02:16"
+  },
+  {
+    "_id": "68e55650234071409d0b6aeb",
+    "sensorLocation": "Ibagué",
+    "airQualityData": {
+      "PM25": 276.98,
+      "NO2": 168.44
+    },
+    "timestamp": "2024-06-14T05:58:36"
+  },
+  {
+    "_id": "68e5565038b3c84a54f09c8a",
+    "sensorLocation": "Cali",
+    "airQualityData": {
+      "PM25": 67.19,
+      "NO2": 50.32
+    },
+    "timestamp": "2025-06-06T08:55:53"
+  },
+  {
+    "_id": "68e55650580a4a87b4e7d32f",
+    "sensorLocation": "Bogotá",
+    "airQualityData": {
+      "PM25": 15.99,
+      "NO2": 29.63
+    },
+    "timestamp": "2025-02-14T01:21:27"
+  },
+  {
+    "_id": "68e55650a33d917ae979d294",
+    "sensorLocation": "Ibagué",
+    "airQualityData": {
+      "PM25": 133.18,
+      "NO2": 101.02
+    },
+    "timestamp": "2025-04-12T11:09:41"
+  },
+  {
+    "_id": "68e55650c714e3aafbb5be06",
+    "sensorLocation": "Ibagué",
+    "airQualityData": {
+      "PM25": 7.76,
+      "NO2": 96.42
+    },
+    "timestamp": "2025-08-03T03:53:27"
+  },
+  {
+    "_id": "68e55650d741cd8ab150ac60",
+    "sensorLocation": "Tunja",
+    "airQualityData": {
+      "PM25": 498.04,
+      "NO2": 164.81
+    },
+    "timestamp": "2024-07-05T08:47:48"
+  },
+  {
+    "_id": "68e55650204cdcca03cfcad9",
+    "sensorLocation": "Cartagena",
+    "airQualityData": {
+      "PM25": 117.3,
+      "NO2": 119.39
+    },
+    "timestamp": "2024-09-05T10:59:24"
+  },
+  {
+    "_id": "68e55650fa7036888a29b677",
+    "sensorLocation": "Medellín",
+    "airQualityData": {
+      "PM25": 430.01,
+      "NO2": 131.72
+    },
+    "timestamp": "2024-09-02T10:08:37"
+  },
+  {
+    "_id": "68e55650e181ffda380c5565",
+    "sensorLocation": "Neiva",
+    "airQualityData": {
+      "PM25": 227.41,
+      "NO2": 175.73
+    },
+    "timestamp": "2025-05-16T06:08:18"
+  },
+  {
+    "_id": "68e55650ff6f37e240a6ba1e",
+    "sensorLocation": "Medellín",
+    "airQualityData": {
+      "PM25": 33.55,
+      "NO2": 171.04
+    },
+    "timestamp": "2024-09-30T09:47:19"
+  },
+  {
+    "_id": "68e55650c4a749cd6ddd315e",
+    "sensorLocation": "Popayán",
+    "airQualityData": {
+      "PM25": 115.8,
+      "NO2": 89.17
+    },
+    "timestamp": "2024-10-03T03:06:28"
+  },
+  {
+    "_id": "68e55650ab35d01c870857f5",
+    "sensorLocation": "Cali",
+    "airQualityData": {
+      "PM25": 140.23,
+      "NO2": 50.06
+    },
+    "timestamp": "2025-01-01T09:44:13"
+  },
+  {
+    "_id": "68e5565034035b8772dfdd89",
+    "sensorLocation": "Medellín",
+    "airQualityData": {
+      "PM25": 288.41,
+      "NO2": 18.5
+    },
+    "timestamp": "2024-03-03T06:06:13"
+  },
+  {
+    "_id": "68e5565006c749d7b19ef3c0",
+    "sensorLocation": "Bogotá",
+    "airQualityData": {
+      "PM25": 49.87,
+      "NO2": 195.47
+    },
+    "timestamp": "2025-09-07T11:52:31"
+  },
+  {
+    "_id": "68e55650ace1acb915b16e1c",
+    "sensorLocation": "Bucaramanga",
+    "airQualityData": {
+      "PM25": 198.95,
+      "NO2": 126.62
+    },
+    "timestamp": "2024-07-20T04:45:40"
+  },
+  {
+    "_id": "68e55650f8b8baca7ba45eda",
+    "sensorLocation": "Manizales",
+    "airQualityData": {
+      "PM25": 122.95,
+      "NO2": 154
+    },
+    "timestamp": "2024-08-30T06:27:09"
+  },
+  {
+    "_id": "68e556505143ee2e43026aa9",
+    "sensorLocation": "Pasto",
+    "airQualityData": {
+      "PM25": 372.35,
+      "NO2": 7.12
+    },
+    "timestamp": "2024-07-06T09:16:50"
+  },
+  {
+    "_id": "68e55650b8c24b79fce0a2b3",
+    "sensorLocation": "Medellín",
+    "airQualityData": {
+      "PM25": 353.47,
+      "NO2": 63.85
+    },
+    "timestamp": "2024-12-19T04:33:49"
+  },
+  {
+    "_id": "68e55650175ea4f77b7c3284",
+    "sensorLocation": "Bogotá",
+    "airQualityData": {
+      "PM25": 405.63,
+      "NO2": 139.87
+    },
+    "timestamp": "2025-07-18T01:57:58"
+  },
+  {
+    "_id": "68e5565044f8f4383d35416f",
+    "sensorLocation": "Tunja",
+    "airQualityData": {
+      "PM25": 479.99,
+      "NO2": 174.81
+    },
+    "timestamp": "2024-09-13T11:42:52"
+  },
+  {
+    "_id": "68e55650345783218064aef6",
+    "sensorLocation": "Barranquilla",
+    "airQualityData": {
+      "PM25": 302.64,
+      "NO2": 29.9
+    },
+    "timestamp": "2024-08-23T05:08:31"
+  },
+  {
+    "_id": "68e55650886938e3ae1ccac6",
+    "sensorLocation": "Valledupar",
+    "airQualityData": {
+      "PM25": 370.52,
+      "NO2": 106.17
+    },
+    "timestamp": "2025-04-03T10:57:48"
+  },
+  {
+    "_id": "68e55650e5a1a6654c026ea9",
+    "sensorLocation": "Montería",
+    "airQualityData": {
+      "PM25": 204.76,
+      "NO2": 155.13
+    },
+    "timestamp": "2024-01-19T04:11:04"
+  },
+  {
+    "_id": "68e556502336fb12369081a5",
+    "sensorLocation": "Manizales",
+    "airQualityData": {
+      "PM25": 15.67,
+      "NO2": 84.36
+    },
+    "timestamp": "2024-10-30T11:13:45"
+  },
+  {
+    "_id": "68e556502a8c7b6a2c147322",
+    "sensorLocation": "Montería",
+    "airQualityData": {
+      "PM25": 324.65,
+      "NO2": 184
+    },
+    "timestamp": "2025-02-25T09:14:16"
+  },
+  {
+    "_id": "68e556500a1b338617f58ddd",
+    "sensorLocation": "Pereira",
+    "airQualityData": {
+      "PM25": 82.48,
+      "NO2": 142.24
+    },
+    "timestamp": "2024-01-08T07:03:12"
+  },
+  {
+    "_id": "68e55650258bb9b4548a03b5",
+    "sensorLocation": "Bogotá",
+    "airQualityData": {
+      "PM25": 102.91,
+      "NO2": 113.84
+    },
+    "timestamp": "2024-04-29T11:15:31"
+  },
+  {
+    "_id": "68e55650310fca0575d5e817",
+    "sensorLocation": "Valledupar",
+    "airQualityData": {
+      "PM25": 187.61,
+      "NO2": 188.36
+    },
+    "timestamp": "2025-02-09T02:14:37"
+  },
+  {
+    "_id": "68e556508704115769096559",
+    "sensorLocation": "Cartagena",
+    "airQualityData": {
+      "PM25": 115.74,
+      "NO2": 188.99
+    },
+    "timestamp": "2024-10-02T05:20:47"
+  },
+  {
+    "_id": "68e5565080aae8b90524510f",
+    "sensorLocation": "Barranquilla",
+    "airQualityData": {
+      "PM25": 20.57,
+      "NO2": 186.33
+    },
+    "timestamp": "2024-09-06T05:54:20"
+  },
+  {
+    "_id": "68e55650f8451cb907c8d1c2",
+    "sensorLocation": "Armenia",
+    "airQualityData": {
+      "PM25": 0.69,
+      "NO2": 164.84
+    },
+    "timestamp": "2025-02-07T08:18:08"
+  },
+  {
+    "_id": "68e556507564e6e25c3ab91a",
+    "sensorLocation": "Pereira",
+    "airQualityData": {
+      "PM25": 91.73,
+      "NO2": 6.99
+    },
+    "timestamp": "2025-04-02T12:48:08"
+  },
+  {
+    "_id": "68e5565036b3d70dc1faca98",
+    "sensorLocation": "Pasto",
+    "airQualityData": {
+      "PM25": 417,
+      "NO2": 93.63
+    },
+    "timestamp": "2025-09-09T10:49:20"
+  },
+  {
+    "_id": "68e5565019d50455c663b831",
+    "sensorLocation": "Manizales",
+    "airQualityData": {
+      "PM25": 79.14,
+      "NO2": 82.25
+    },
+    "timestamp": "2024-12-26T02:10:11"
+  },
+  {
+    "_id": "68e55650ed6f7e7e5004111d",
+    "sensorLocation": "Manizales",
+    "airQualityData": {
+      "PM25": 111.63,
+      "NO2": 17.82
+    },
+    "timestamp": "2025-01-07T03:39:47"
+  },
+  {
+    "_id": "68e55650fe25e7841f5ad59c",
+    "sensorLocation": "Bucaramanga",
+    "airQualityData": {
+      "PM25": 123.96,
+      "NO2": 154.01
+    },
+    "timestamp": "2024-07-03T12:46:55"
+  },
+  {
+    "_id": "68e5565028aa6de6c113d1df",
+    "sensorLocation": "Santa Marta",
+    "airQualityData": {
+      "PM25": 193.36,
+      "NO2": 2.39
+    },
+    "timestamp": "2024-11-14T06:26:03"
+  },
+  {
+    "_id": "68e556503f9751f214a58520",
+    "sensorLocation": "Bucaramanga",
+    "airQualityData": {
+      "PM25": 171.38,
+      "NO2": 79.77
+    },
+    "timestamp": "2025-04-24T09:10:47"
+  },
+  {
+    "_id": "68e55650bd065d2c170abf3e",
+    "sensorLocation": "Villavicencio",
+    "airQualityData": {
+      "PM25": 352.06,
+      "NO2": 137.39
+    },
+    "timestamp": "2024-05-13T06:25:23"
+  },
+  {
+    "_id": "68e55650e2236e5f941b5dcd",
+    "sensorLocation": "Ibagué",
+    "airQualityData": {
+      "PM25": 151.95,
+      "NO2": 26.5
+    },
+    "timestamp": "2025-03-07T03:22:04"
+  },
+  {
+    "_id": "68e55650200566d254f01d4e",
+    "sensorLocation": "Manizales",
+    "airQualityData": {
+      "PM25": 316.11,
+      "NO2": 159.06
+    },
+    "timestamp": "2024-05-01T10:00:31"
+  },
+  {
+    "_id": "68e556504de35ffe891c9e8c",
+    "sensorLocation": "Popayán",
+    "airQualityData": {
+      "PM25": 213.27,
+      "NO2": 24.49
+    },
+    "timestamp": "2024-07-15T10:47:53"
+  },
+  {
+    "_id": "68e556500b7e9418f50463c1",
+    "sensorLocation": "Pasto",
+    "airQualityData": {
+      "PM25": 16.85,
+      "NO2": 165.69
+    },
+    "timestamp": "2025-06-24T11:16:08"
+  },
+  {
+    "_id": "68e5565033f269a63ebe0091",
+    "sensorLocation": "Sincelejo",
+    "airQualityData": {
+      "PM25": 168,
+      "NO2": 123.72
+    },
+    "timestamp": "2024-12-26T06:20:41"
+  },
+  {
+    "_id": "68e55650fdd862169d806464",
+    "sensorLocation": "Bucaramanga",
+    "airQualityData": {
+      "PM25": 230.39,
+      "NO2": 121.02
+    },
+    "timestamp": "2024-01-07T02:47:59"
+  },
+  {
+    "_id": "68e5565078e78c61e371509e",
+    "sensorLocation": "Pereira",
+    "airQualityData": {
+      "PM25": 164.82,
+      "NO2": 41.02
+    },
+    "timestamp": "2024-09-10T07:59:25"
+  },
+  {
+    "_id": "68e556505edce9eb1d522753",
+    "sensorLocation": "Bogotá",
+    "airQualityData": {
+      "PM25": 47.49,
+      "NO2": 34.19
+    },
+    "timestamp": "2025-08-31T07:52:07"
+  },
+  {
+    "_id": "68e5565041472d5b112ea476",
+    "sensorLocation": "Tunja",
+    "airQualityData": {
+      "PM25": 115.11,
+      "NO2": 113.97
+    },
+    "timestamp": "2025-05-29T11:26:28"
+  },
+  {
+    "_id": "68e55650fafb09e41efe032c",
+    "sensorLocation": "Cali",
+    "airQualityData": {
+      "PM25": 358.34,
+      "NO2": 134.57
+    },
+    "timestamp": "2025-03-12T10:42:46"
+  },
+  {
+    "_id": "68e5565094f73cf0a5095e16",
+    "sensorLocation": "Bucaramanga",
+    "airQualityData": {
+      "PM25": 446.62,
+      "NO2": 122.53
+    },
+    "timestamp": "2025-10-06T08:19:17"
+  },
+  {
+    "_id": "68e55650ecb48dff111e90dc",
+    "sensorLocation": "Bucaramanga",
+    "airQualityData": {
+      "PM25": 87.17,
+      "NO2": 95.26
+    },
+    "timestamp": "2024-12-23T07:35:18"
+  },
+  {
+    "_id": "68e556505e678ec2539482f1",
+    "sensorLocation": "Popayán",
+    "airQualityData": {
+      "PM25": 250.43,
+      "NO2": 65.59
+    },
+    "timestamp": "2024-01-30T10:34:12"
+  },
+  {
+    "_id": "68e5565004472e746759a69e",
+    "sensorLocation": "Barranquilla",
+    "airQualityData": {
+      "PM25": 471.71,
+      "NO2": 101.43
+    },
+    "timestamp": "2024-02-19T10:24:27"
+  },
+  {
+    "_id": "68e5565060149ef1031f129f",
+    "sensorLocation": "Bogotá",
+    "airQualityData": {
+      "PM25": 33.8,
+      "NO2": 171.73
+    },
+    "timestamp": "2024-01-20T11:53:51"
+  },
+  {
+    "_id": "68e5565019d2c12616c342c4",
+    "sensorLocation": "Manizales",
+    "airQualityData": {
+      "PM25": 296.88,
+      "NO2": 135.99
+    },
+    "timestamp": "2024-11-06T07:49:19"
+  },
+  {
+    "_id": "68e55650285a365071f47587",
+    "sensorLocation": "Cali",
+    "airQualityData": {
+      "PM25": 92.38,
+      "NO2": 139.26
+    },
+    "timestamp": "2024-11-03T06:02:25"
+  },
+  {
+    "_id": "68e55650edc05886058cea95",
+    "sensorLocation": "Santa Marta",
+    "airQualityData": {
+      "PM25": 358.81,
+      "NO2": 184.41
+    },
+    "timestamp": "2025-07-24T09:46:43"
+  },
+  {
+    "_id": "68e55650bc5893f7acb073ab",
+    "sensorLocation": "Cartagena",
+    "airQualityData": {
+      "PM25": 159.51,
+      "NO2": 173.86
+    },
+    "timestamp": "2024-03-18T02:18:06"
+  },
+  {
+    "_id": "68e55650ceefefbd3ddb63a8",
+    "sensorLocation": "Manizales",
+    "airQualityData": {
+      "PM25": 381.21,
+      "NO2": 40.83
+    },
+    "timestamp": "2024-07-18T12:54:11"
+  },
+  {
+    "_id": "68e55650c4791cd916de2ade",
+    "sensorLocation": "Popayán",
+    "airQualityData": {
+      "PM25": 264.97,
+      "NO2": 168
+    },
+    "timestamp": "2025-07-04T06:03:59"
+  },
+  {
+    "_id": "68e55650b9569fd08656e129",
+    "sensorLocation": "Bucaramanga",
+    "airQualityData": {
+      "PM25": 421.5,
+      "NO2": 160.33
+    },
+    "timestamp": "2024-05-19T06:01:42"
+  },
+  {
+    "_id": "68e55650a9355033374ab485",
+    "sensorLocation": "Barranquilla",
+    "airQualityData": {
+      "PM25": 495.92,
+      "NO2": 178.46
+    },
+    "timestamp": "2024-08-12T12:43:43"
+  },
+  {
+    "_id": "68e55650778d2eecac61df82",
+    "sensorLocation": "Villavicencio",
+    "airQualityData": {
+      "PM25": 462.18,
+      "NO2": 7.81
+    },
+    "timestamp": "2024-05-20T10:18:08"
+  },
+  {
+    "_id": "68e55650f4f2011601c45cdd",
+    "sensorLocation": "Pasto",
+    "airQualityData": {
+      "PM25": 315.28,
+      "NO2": 26.05
+    },
+    "timestamp": "2025-03-14T06:54:20"
+  },
+  {
+    "_id": "68e556504be55aad6fdc4dcb",
+    "sensorLocation": "Montería",
+    "airQualityData": {
+      "PM25": 411.24,
+      "NO2": 154.4
+    },
+    "timestamp": "2025-07-10T05:28:22"
+  },
+  {
+    "_id": "68e556502ec7def02a821db6",
+    "sensorLocation": "Pasto",
+    "airQualityData": {
+      "PM25": 48.84,
+      "NO2": 20.35
+    },
+    "timestamp": "2024-06-15T05:44:38"
+  },
+  {
+    "_id": "68e5565060473bcb46d2e118",
+    "sensorLocation": "Barranquilla",
+    "airQualityData": {
+      "PM25": 321.85,
+      "NO2": 61.23
+    },
+    "timestamp": "2025-02-07T04:03:58"
+  },
+  {
+    "_id": "68e55650e9447376f050da07",
+    "sensorLocation": "Tunja",
+    "airQualityData": {
+      "PM25": 9.64,
+      "NO2": 172.92
+    },
+    "timestamp": "2025-07-08T05:17:07"
+  }
+]
