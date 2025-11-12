@@ -7,16 +7,16 @@ import logging
 
 # Configure alerts log
 logging.basicConfig(
-    filename="../alerts.log",
+    filename="../../data/alerts.log",
     level=logging.INFO,
     format="%(message)s",
     encoding="utf-8"
 )
 
-# Alert thresholds
+# Alert thresholds - EPA Standards (US)
 THRESHOLDS = {
-    "PM25": 25.0,   # µg/m³ - Resolution 2254 of 2017 (24h average)
-    "NO2": 60.0     # ppb (~113 µg/m³) - Resolution 2254 of 2017 (1h average)
+    "PM25": 35.0,   # µg/m³ - EPA 24h standard
+    "NO2": 100.0    # µg/m³ - EPA 1h standard
 }
 
 def predict_from_series(series, sims=500):
